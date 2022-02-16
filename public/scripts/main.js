@@ -12,4 +12,4 @@ checkButtons.forEach(button => {
     })
 })
 
-// When "Marcar como Lido" is clicked
+// Pause on 01:10:42

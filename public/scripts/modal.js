@@ -11,5 +11,3 @@ export default function Modal(){
         close
     }
 }
-
-// pause in 01:22:10
