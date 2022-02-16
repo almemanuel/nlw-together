@@ -1,7 +1,7 @@
 {
   "name": "rocketq",
   "version": "1.0.0",
-  "description": "Projeto desenvolvido na NLW para gerenciar perguntar",
+  "description": "Projeto desenvolvido na NLW para gerenciar perguntas",
   "main": "src/server.js",
   "scripts": {
     "start": "nodemon ."
